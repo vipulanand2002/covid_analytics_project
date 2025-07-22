@@ -1,0 +1,25 @@
+data_dir: data
+data_quality:
+  check_data_freshness: true
+  max_missing_percentage: 20
+  min_countries: 100
+notifications:
+  email: null
+  enabled: false
+  webhook: null
+powerbi:
+  enabled: true
+  export_formats:
+  - excel
+  - csv
+processing:
+  create_rolling_averages: true
+  enabled: true
+  rolling_windows:
+  - 7
+  - 14
+  - 30
+scraping:
+  enabled: true
+  retries: 3
+  timeout: 300

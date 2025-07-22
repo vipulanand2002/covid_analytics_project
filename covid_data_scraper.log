@@ -25,3 +25,9 @@
 2025-07-20 22:46:29,935 - INFO - Global cases: 3,288,119,237
 2025-07-20 22:46:29,935 - INFO - Global deaths: 29,487,750
 2025-07-20 22:46:29,935 - INFO - === COVID-19 Data Scraper Completed Successfully ===
+2025-07-22 22:00:44,558 - INFO - === COVID-19 Data Scraper Started ===
+2025-07-22 22:00:44,559 - WARNING - Config file config/settings.yaml not found, using defaults
+2025-07-22 22:00:44,560 - INFO - Scraping main time-series dataset...
+2025-07-22 22:00:44,560 - INFO - Starting to scrape main dataset from https://covid.ourworldindata.org/data/owid-covid-data.csv
+2025-07-22 22:00:44,721 - ERROR - Error downloading data: HTTPSConnectionPool(host='covid.ourworldindata.org', port=443): Max retries exceeded with url: /data/owid-covid-data.csv (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E458E9010>: Failed to resolve 'covid.ourworldindata.org' ([Errno 11001] getaddrinfo failed)"))
+2025-07-22 22:00:44,722 - ERROR - Scraper failed: HTTPSConnectionPool(host='covid.ourworldindata.org', port=443): Max retries exceeded with url: /data/owid-covid-data.csv (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E458E9010>: Failed to resolve 'covid.ourworldindata.org' ([Errno 11001] getaddrinfo failed)"))
