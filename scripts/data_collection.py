@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 import time
 
 class CovidDataCollector:
-    def __init__(self, data_path="../data/raw/"):
+    def __init__(self, data_path="./data/raw/"):
         self.data_path = data_path
         self.base_jhu_url = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/"
         self.owid_url = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/"
