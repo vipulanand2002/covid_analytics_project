@@ -1,6 +1,6 @@
 # COVID-19 India Analytics Dashboard
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)]([https://powerbi.microsoft.com/](https://app.powerbi.com/links/Iofmf49UEs?ctid=09bd1956-edda-4e9a-9543-7c7aa2cf4e81&pbi_source=linkShare))
+[![Dashboard Link](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)]([https://powerbi.microsoft.com/]([https://app.powerbi.com/links/Iofmf49UEs?ctid=09bd1956-edda-4e9a-9543-7c7aa2cf4e81&pbi_source=linkShare](https://app.powerbi.com/links/Iofmf49UEs?ctid=09bd1956-edda-4e9a-9543-7c7aa2cf4e81&pbi_source=linkShare)))
 
 > An interactive Power BI dashboard analyzing COVID-19 pandemic trends across Indian states and districts with comprehensive performance metrics and geographic visualizations.
 
